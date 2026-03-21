@@ -47,8 +47,10 @@ This profile serves as a central repository for my projects, experiments, and st
 ---
 
 ## Projects
+[![SPH Demo](https://github.com/jcaetanov/sph/raw/main/ToyStarColision.gif)](https://github.com/jcaetanov/sph/tree/main)  
+**Repository:** [SPH](https://github.com/jcaetanov/sph/tree/main)
+**Repository:** [SPH2](https://github.com/jcaetanov/sph2)
 
-[![SPH Demo](https://github.com/jcaetanov/sph/raw/main/ToyStarColision.gif)](https://github.com/jcaetanov/sph)
 
 
 ### COMP
