@@ -48,7 +48,7 @@ This profile serves as a central repository for my projects, experiments, and st
 
 ## Projects
 [![SPH Demo](https://github.com/jcaetanov/sph/raw/main/ToyStarColision.gif)](https://github.com/jcaetanov/sph/tree/main)  
-[SPH]([https://github.com/jcaetanov/Comp1](https://github.com/jcaetanov/sph/tree/main)) | [SPH2]([https://github.com/jcaetanov/Comp2](https://github.com/jcaetanov/sph2))
+[SPH](https://github.com/jcaetanov/sph/tree/main) | [SPH2](https://github.com/jcaetanov/sph2)
 
 
 ### COMP
