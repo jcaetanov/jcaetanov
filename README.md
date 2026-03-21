@@ -1,12 +1,16 @@
 # João Caetano
 ---
-##  Linguagens mais usadas
 
-<br/>
+##  GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jcaetanov&show_icons=true&count_private=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcaetanov&layout=donut&langs_count=8" />
 </p>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jcaetanov&theme=radical)
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=jcaetanov&theme=react-dark)
 
 ---
 ## Abstract
@@ -37,15 +41,17 @@ This profile serves as a central repository for my projects, experiments, and st
 - Docker
 - Relational and non-relational databases
 
+---
+
 ## Projects
 
-### Project 1: SPH
+### SPH
+[![SPH Demo](https://github.com/jcaetanov/SPH/raw/main/demo.gif)](https://github.com/jcaetanov/SPH)
 
-Repo: jcaetanov/SPH and jcaetanov/SPH2
+### COMP
+[Repo1](https://github.com/jcaetanov/Comp1) | [Repo2](https://github.com/jcaetanov/Comp2)
 
-### Project 2: COMP
-
-jcaetanov/Comp1 and jcaetanov/Comp2 jcaetanov/Comp4
+---
 
 
 
