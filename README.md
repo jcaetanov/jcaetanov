@@ -1,5 +1,16 @@
 # João Caetano
+---
+##  Linguagens mais usadas
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcaetanov&layout=compact&langs_count=8)
+---
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcaetanov&layout=donut&langs_count=8" />
+</p>
+
+---
 ## Abstract
 
 This profile presents an overview of my work in software development, with emphasis on programming languages, system design, and applied projects. The objective is to document my technical evolution and highlight relevant contributions in the field of computing.
