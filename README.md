@@ -2,8 +2,6 @@
 ---
 ##  Linguagens mais usadas
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcaetanov&layout=compact&langs_count=8)
----
 <br/>
 
 <p align="center">
