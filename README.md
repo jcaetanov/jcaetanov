@@ -3,14 +3,20 @@
 
 ##  GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jcaetanov&show_icons=true&count_private=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcaetanov&layout=donut&langs_count=8" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jcaetanov&show_icons=true&count_private=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcaetanov&layout=donut&langs_count=8" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jcaetanov&theme=radical" />
+    </td>
+  </tr>
+</table>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jcaetanov&theme=radical)
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=jcaetanov&theme=react-dark)
 
 ---
 ## Abstract
@@ -45,7 +51,8 @@ This profile serves as a central repository for my projects, experiments, and st
 
 ## Projects
 
-### SPH
+
+### SPH Project
 [![SPH Demo](https://github.com/jcaetanov/SPH/raw/main/demo.gif)](https://github.com/jcaetanov/SPH)
 
 ### COMP
