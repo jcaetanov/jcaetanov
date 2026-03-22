@@ -56,11 +56,11 @@ This profile serves as a central repository for my projects, experiments, and st
   <tr>
     <td align="center">
       <img src="https://github.com/jcaetanov/sph/raw/main/sph_collision_optimized.gif" width="400px"><br>
-      <sub>Star Collision: SPH simulation with 1000 particles</sub>
+      <sub>Star Collision: Toy SPH simulation with 1000 particles</sub>
     </td>
     <td align="center">
       <img src="https://github.com/jcaetanov/sph2/raw/main/black_hole_birth_halw.gif" width="400px"><br>
-      <sub>Black Hole Birth simulation</sub>
+      <sub>Toy Black Hole Birth simulation</sub>
     </td>
   </tr>
 </table>
