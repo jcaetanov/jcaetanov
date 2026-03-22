@@ -54,6 +54,7 @@ This profile serves as a central repository for my projects, experiments, and st
 
 <div align="center">
   <img src="https://github.com/jcaetanov/sph/raw/main/sph_collision_optimized.gif" width="500px">
+  <p>Star Collision: SPH simulation 1000 particles</p>
 </div>
 
 [SPH](https://github.com/jcaetanov/sph/tree/main) | [SPH2](https://github.com/jcaetanov/sph2)
