@@ -43,15 +43,19 @@ This profile serves as a central repository for my projects, experiments, and st
 - React
 - Docker
 - Relational and non-relational databases
-<div align="center">
-  <img src="https://github.com/jcaetanov/sph/raw/main/sph_collision_optimized.gif" width="500px">
-</div>
+
 ---
 
 ## Projects
-### SPH
 
-[![SPH Demo](https://github.com/jcaetanov/sph/raw/main/sph_collision_optimized.gif)](https://github.com/jcaetanov/sph/tree/main)  
+<div align="center">
+  <img src="SPH">
+</div>
+
+<div align="center">
+  <img src="https://github.com/jcaetanov/sph/raw/main/sph_collision_optimized.gif" width="500px">
+</div>
+
 [SPH](https://github.com/jcaetanov/sph/tree/main) | [SPH2](https://github.com/jcaetanov/sph2)
 
 
