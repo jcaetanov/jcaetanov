@@ -49,7 +49,7 @@ This profile serves as a central repository for my projects, experiments, and st
 ## Projects
 
 <div align="center">
-  ## SPH
+   SPH
 </div>
 
 <div align="center">
